@@ -1,0 +1,9 @@
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\bin\Debug\AllianceSalesforce.PubSub.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\bin\Debug\AllianceSalesforce.PubSub.pdb
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\obj\Debug\AllianceSalesforce.PubSub.csprojResolveAssemblyReference.cache
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\obj\Debug\AllianceSalesforce.PubSub.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesforce.PubSub\obj\Debug\AllianceSalesforce.PubSub.pdb

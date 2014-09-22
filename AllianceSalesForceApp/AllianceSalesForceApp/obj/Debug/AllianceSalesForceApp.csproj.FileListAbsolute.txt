@@ -1,0 +1,11 @@
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\bin\Debug\AllianceSalesForceApp.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\bin\Debug\AllianceSalesForceApp.pdb
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\obj\Debug\AllianceSalesForceApp.csprojResolveAssemblyReference.cache
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\obj\Debug\AllianceSalesForceApp.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\obj\Debug\AllianceSalesForceApp.pdb
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\bin\Debug\Autofac.dll
+c:\users\srb\documents\visual studio 2012\Projects\AllianceSalesForceApp\AllianceSalesForceApp\AllianceSalesForceApp\bin\Debug\Autofac.xml
